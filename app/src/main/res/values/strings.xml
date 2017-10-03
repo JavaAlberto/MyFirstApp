@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">MyFirstApp</string>
+    <string name="meine_Textbox1">Hallo Textbox</string>
+</resources>
