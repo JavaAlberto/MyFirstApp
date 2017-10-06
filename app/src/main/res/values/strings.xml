@@ -1,4 +1,5 @@
 <resources>
     <string name="app_name">MyFirstApp</string>
     <string name="meine_Textbox1">Hallo Textbox</string>
+    <string name="title_activity_main2">Main2Activity</string>
 </resources>
