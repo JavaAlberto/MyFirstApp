@@ -14,7 +14,8 @@ public class MainActivity extends AppCompatActivity {
         setContentView(R.layout.activity_main);
         System.out.print("Test");
         System.out.print("Test111111");
-        System.out.print("Test222222");
+        System.out.print("5555Testbranch");
+
         Toast.makeText(this,"oncreate gestartet", Toast.LENGTH_LONG).show();
     }
 }
